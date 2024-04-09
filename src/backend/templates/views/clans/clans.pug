@@ -1,7 +1,9 @@
 extends ../../layouts/default
+include ../../mixins/loading-spinner
 
 block content
     h1 Clans
+    +loading-spinner
     table#clan-table
 block js
     script(src=webpackAssetJS('clans'))
