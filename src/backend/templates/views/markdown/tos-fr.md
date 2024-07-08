@@ -1,6 +1,6 @@
 # Conditions d'utilisations de Forged Alliance Forever
 
-Date d'application: _25 Mai 2018_
+Date d'application: _8 July 2024_
 
 ## Version courte
 
@@ -18,7 +18,7 @@ Merci d'avoir créé un compte sur Forged Alliance Forever. Ce document présent
 
 ## RESUME
 
-Ce site internet est géré par Forged Alliance Forever LLC. A travers ce site, les termes "nous", "nôtre" se réfèrent à  Forged Alliance Forever LLC. Forged Alliance Forever LLC met ce site, ses informations, outils et services à la disposition de *vous*, l'utilisateur, sous réserve de votre acceptation de toutes les conditions et règles présentées ici.
+Ce site internet est géré par Forged Alliance Forever Association. A travers ce site, les termes "nous", "nôtre" se réfèrent à  Forged Alliance Forever Association. Forged Alliance Forever Association met ce site, ses informations, outils et services à la disposition de *vous*, l'utilisateur, sous réserve de votre acceptation de toutes les conditions et règles présentées ici.
 
 En visitant notre site et/ou en nous achetant un produit, vous utilisez notre "Service" et acceptez d'être lié par les termes et conditions suivantes ("Conditions d'utilisation"), ce qui inclut également toute condition ou terme référencés ici et/ou disponible par hyperlien. Ces conditions d'utilisation s'appliquent à tous les utilisateurs du site, y compris les utilisateurs représentant des usagers, vendeurs, clients, marchands et/ou contributeurs.
 
@@ -120,11 +120,11 @@ Vous acceptez qu'à tout moment nous puissions retirer le Service pour une duré
 
 Vous acceptez que votre utilisation de, ou votre incapacité à utiliser, le service est à vos risques. Le service et tous ses produits ou services qui vous sont offerts à travers le service sont (sauf mention contraire) proposés "tels quels" et "tels que disponibles" pour votre utilisation, sans aucune garantie ou condition d'aucune sorte, ni expresse ni implicite, incluant toute les garanties et conditions implicites liées au commerce, à la qualité mercantile, à la correspondance du produit pour une situation particulière, à la durabilité, au titre, et à la légalité.
 
-En aucun cas Forged Alliance Forever LLC, nos directeurs, officiers, employés, affiliées, agents, contractuels, stagiaires, fournisseurs, fournisseurs de service ou concédants ne peuvent être tenus responsables de blessures, pertes, réclamations, ou dommages directs, indirects, punitifs, particuliers, ou collatéraux d'aucune sorte, y compris mais pas uniquement, la perte de profits, de revenus, de données, les coûts de replacements, ou autres dommages similaires, qu'ils soient lié au contrat, tort (y compris négligence), responsabilité stricte ou non, ressortissant de n'importe laquelle de vos utilisations du service ou de produits obtenus par utilisation du service ou d'autres produits, y compris mais pas seulement, toute erreur ou omission d'aucun contenu, toute perte ou dommage d'aucune sorte résultant d'une utilisation du service ou de contenu (ou produit) publié, transmis, ou autrement rendu disponible via le service, même en en connaissant la possibilité. Parce que certains états ou juridictions n'autorisent pas l'exclusion de la limitation de responsabilité pour les conséquences ou dommages accidentels, dans de tels états ou juridictions, notre responsabilité est limitée par lesdites limitation.
+En aucun cas Forged Alliance Forever Association, nos directeurs, officiers, employés, affiliées, agents, contractuels, stagiaires, fournisseurs, fournisseurs de service ou concédants ne peuvent être tenus responsables de blessures, pertes, réclamations, ou dommages directs, indirects, punitifs, particuliers, ou collatéraux d'aucune sorte, y compris mais pas uniquement, la perte de profits, de revenus, de données, les coûts de replacements, ou autres dommages similaires, qu'ils soient lié au contrat, tort (y compris négligence), responsabilité stricte ou non, ressortissant de n'importe laquelle de vos utilisations du service ou de produits obtenus par utilisation du service ou d'autres produits, y compris mais pas seulement, toute erreur ou omission d'aucun contenu, toute perte ou dommage d'aucune sorte résultant d'une utilisation du service ou de contenu (ou produit) publié, transmis, ou autrement rendu disponible via le service, même en en connaissant la possibilité. Parce que certains états ou juridictions n'autorisent pas l'exclusion de la limitation de responsabilité pour les conséquences ou dommages accidentels, dans de tels états ou juridictions, notre responsabilité est limitée par lesdites limitation.
 
 ## INDEMNITES
 
-Vous acceptez d'indemniser, défendre et laisser Forged Alliance Forever LLC et ses parents, subsidaires, affiliés, partenaires, officiers, directeurs, agents, contractuels, fournisseurs de licence ou de services, sous-contractuels, stagiaires et employés exempts de toute réclamation ou demande, y compris frais d'avocats, faits par un tiers quelconque ou en conséquence d'une violation des Conditions d'utilisations de votre part ou des documents qui l'incorporent par référence, ou par votre violation d'aucune loi ou droits d'un tiers.
+Vous acceptez d'indemniser, défendre et laisser Forged Alliance Forever Association et ses parents, subsidaires, affiliés, partenaires, officiers, directeurs, agents, contractuels, fournisseurs de licence ou de services, sous-contractuels, stagiaires et employés exempts de toute réclamation ou demande, y compris frais d'avocats, faits par un tiers quelconque ou en conséquence d'une violation des Conditions d'utilisations de votre part ou des documents qui l'incorporent par référence, ou par votre violation d'aucune loi ou droits d'un tiers.
 
 ## CLAUSE DE DIVISILIBITE
 
